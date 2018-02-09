@@ -55,7 +55,8 @@ Remember to work in virtual environments for your projects!
 ## Setting up Node.js
 Install Node.js 9:
 ```
-$ curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash - sudo apt-get install -y nodejs
+$ curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
+$ sudo apt-get install -y nodejs
 ```
 
 To compile and install native addons from npm you may also need to install build tools:
