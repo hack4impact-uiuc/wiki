@@ -1,4 +1,5 @@
 # WIKI
+**please check the wiki tab of this repository**
 Compilation of Docs
 - [Frontend](#frontend)
 - [Backend](#backend)
